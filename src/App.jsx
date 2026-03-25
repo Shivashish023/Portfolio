@@ -194,13 +194,13 @@ function App() {
               title="EDOS"
               tag="Backend"
               desc="Event-driven order processing with microservices, Kafka, and MongoDB—inventory and payment flows stay in sync."
-              githubHref="https://github.com/Shivashish023/EDOS"
+              githubHref="https://github.com/Shivashish023/event-driven-order-system"
             />
             <ProjectCard
               title="CHAP"
               tag="Realtime"
               desc="Chat app with Socket.io: direct and group rooms, presence, and live timestamps."
-              githubHref="https://github.com/Shivashish023/CHAP"
+              githubHref="https://github.com/Shivashish023/ChatApp"
             />
             <ProjectCard
               title="NextBlog"
